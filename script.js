@@ -1,1 +1,0 @@
-console.log("FistaszjoObywatel – wersja edukacyjna uruchomiona");
